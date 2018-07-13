@@ -6,4 +6,8 @@ Today(07/08/2018) I accepted the challenge from Siraj to take on the challenge t
 - [x] Day 1: Launch a vm amazon ec2 or azure using ssh - learned how to launch an ec2 instance on aws and logged on using ssh.
 - [x] Day 2: Install jupyter on an ec2 instance and configure it to access it from client
 - [x] Day 3: Set up VM with all required softwares, packages and other.
-- [ ] Day 4: Learn about numpy and scipy packages.
+- [x] Day 4: Learn about numpy basics - part 1
+- [ ] Day 5: Finish Numpy basics - part 2
+- [ ] Day 6: Scipy basics - part 1
+- [ ] Day 7: Scipy basics - part 2
+- [ ] Day 8: Matplotlib
